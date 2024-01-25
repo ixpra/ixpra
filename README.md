@@ -1,6 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ixpra.sales07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ixpra.salesp07" />
 
-<h3 align="center">An aspiring software engineer from Maryland</h3>
+<h1 align="center">
+    An aspiring software engineer from Maryland
+</h1>
 
 <br/>
 
