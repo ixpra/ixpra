@@ -1,10 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ixpra.ixpra" />
-
-<h1 align="center">
-    An Aspiring Software Engineer From Maryland
-</h1>
-
-<br/>
 
 <div align="center">
 
