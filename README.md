@@ -8,7 +8,8 @@
 
 <div align="center">
 
-💬 Ask me anything through here...
+<h2 align="center">💬 Ask me anything through here...
+</h2>
 
  </div>
  
@@ -20,6 +21,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+
+<br/>
  
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
