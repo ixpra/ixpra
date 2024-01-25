@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2 align="center">💬 Ask me anything through here...
+<h2 align="center">💬 Ask me anything here...
 </h2>
 
  </div>
