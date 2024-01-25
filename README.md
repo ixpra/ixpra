@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ixpra.ixpra" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ixpra.sales07" />
 
 <h3 align="center">An aspiring software engineer from Maryland</h3>
 
