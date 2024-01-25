@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ixpra.ixpra" />
 
 <h1 align="center">
-    An aspiring software engineer from Maryland
+    An Aspiring Software Engineer From Maryland
 </h1>
 
 <br/>
@@ -26,6 +26,6 @@
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,react,nodejs,selenium,html,css,vscode,github,git" />
+/><br>
 </div>
