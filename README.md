@@ -10,6 +10,6 @@
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,java,react,nodejs,selenium,html,css,vscode,github,git,aws" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,react,nodejs,selenium,aws,html,css,vscode,github,git" />
 <br>
 </div>
